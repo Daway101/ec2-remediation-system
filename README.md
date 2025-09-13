@@ -115,7 +115,7 @@ To optimize:
 ![AWS Integration Server Credentials](Images/AWS%20Integration%20Server%20Credentials.png)
 
 ### Knowledge Article with Keywords
-![Knowledge Article](Images/Knowledge%20Article.png)
+![Knowledge Article](Images/Knowledge%20Article%20with%20keywords..png)
 
 ### Flow Designer Workflow (Trigger)
 ![Flow Designer Workflow with Trigger](Images/Flow%20Designer%20workflow%20with%20trigger.png)
