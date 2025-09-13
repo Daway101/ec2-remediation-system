@@ -82,6 +82,64 @@ To optimize:
 
 ---
 
+## 📸 Screenshots
+
+### System Architecture
+![System Architecture](Images/System%20architecture.png)
+
+### EC2 Monitoring and Remediation System - ServiceNow Application Overview
+![EC2 Monitoring and Remediation System](Images/EC2%20Monitoring%20and%20Remediation%20System%20-%20ServiceNow%20Application%20Overview.png)
+
+### EC2 Instance Log Table (Spreadsheet)
+![EC2 Instance Log Table Spreadsheet](Images/EC2%20Instance%20log%20table%20spreadsheet.png)
+
+### EC2 Instance Log Table (Fields)
+![EC2 Instance Log Table Fields](Images/EC2%20Instance%20log%20table%20fields.png)
+
+### Remediation Log Table (Spreadsheet)
+![Remediation Log Table Spreadsheet](Images/Remediation%20Log%20table%20Spreadsheet.png)
+
+### Remediation Log Table (Fields)
+![Remediation Log Table Fields](Images/Remediation%20Log%20table%20Fields.png)
+
+### Trigger EC2 Remediation UI Action
+![Trigger EC2 Remediation UI Action](Images/Trigger%20EC2%20Remediation%20UI%20Action%20form.png)
+
+### Script Include: EC2RemediationHelper
+![EC2RemediationHelper Script Include](Images/EC2RemediationHelper%20Script%20Include%20record.png)
+
+### AWS Connection & Credential Alias
+![AWS Connection & Credential Alias](Images/AWS%20Connection%20&%20Credential%20Alias%20configuration.png)
+
+### AWS Integration Server Credentials
+![AWS Integration Server Credentials](Images/AWS%20Integration%20Server%20Credentials.png)
+
+### Knowledge Article with Keywords
+![Knowledge Article](Images/Knowledge%20Article.png)
+
+### Flow Designer Workflow (Trigger)
+![Flow Designer Workflow with Trigger](Images/Flow%20Designer%20workflow%20with%20trigger.png)
+
+### Flow Designer Workflow (Incident Create Action)
+![Flow Designer Workflow with Incident Create](Images/Flow%20Designer%20workflow%20with%20incident%20create%20action.png)
+
+### Flow Designer Workflow (AI Search Custom)
+![Flow Designer Workflow with AI Search Custom](Images/Flow%20Designer%20workflow%20with%20AI%20Search%20Custom.png)
+
+### Flow Designer Workflow (Slack Notification)
+![Flow Designer Workflow with Slack Notification](Images/Flow%20Designer%20workflow%20with%20Slack%20Notification%20.png)
+
+### Slack Notification Message
+![Slack Notification](Images/Slack%20notification%20message.png)
+
+### AI Search Custome Action
+![AI Search Custome](Images/AI%20Search%20Custome.png)
+
+### Incident Record
+![Incident Record](Images/Incident%20Record.png)
+
+---
+
 ## ⚠️ Challenges I Faced
 
 - At first, I mixed up **Workflow Studio** with **Flow Designer** — I quickly learned Flow Designer is the modern way forward.  
